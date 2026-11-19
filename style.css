@@ -1,3 +1,5 @@
+
+
 /* Variables de couleurs (codes visuels de la gauche : rouge vif, rose corail, anthracite) */
 :root {
     --primary-red: #d9232e;
@@ -39,6 +41,7 @@ body {
 
 .logo {
     font-weight: 900;
+
     font-size: 1.3rem;
     letter-spacing: 1px;
     color: var(--white);
