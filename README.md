@@ -39,3 +39,21 @@ Votre équipe devra s'organiser à l'aide des Issues GitHub.
 Consultez l’onglet "Issues" du dépôt GitHub pour choisir votre tâche.
 
 Bon travail à tous !
+
+---
+
+## ✊ Identité et ligne éditoriale : Horizon 2027
+
+Pour cette édition, notre équipe a choisi de donner au **Festival Horizon 2027** une identité culturelle et politique marquée à gauche, portée par des valeurs de solidarité, d'égalité et de justice sociale.
+
+### 🎶 Une programmation engagée contre le racisme
+
+Le festival met à l'honneur des artistes engagés (musique, scène ouverte, ateliers culturels) afin de **lutter activement contre le racisme et toutes les formes de discriminations**. 
+
+### 🎨 Directives pour les contributions
+
+Afin de garder une cohérence sur l'ensemble du site, merci de tenir compte de cette orientation dans vos futures sections :
+
+- **Ton et contenu :** Mettez en avant le message citoyen, l'inclusivité et l'engagement des artistes programmés.
+- **Identité visuelle :** Privilégiez des couleurs fortes et contrastées (rouge, anthracite, blanc) et une typographie percutante rappelant l'univers des festivals citoyens et des affiches culturelles engagées.
+- **Accessibilité :** Pensez à intégrer des mentions sur les tarifs solidaires (prix libre, gratuité pour les étudiants boursiers et demandeurs d'emploi) dans les informations pratiques.
